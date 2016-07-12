@@ -25,15 +25,29 @@ See LICENSE.txt for this sample’s licensing information
             <carousel>
                 <section>
                     <lockup>
-                        <img src="/resources/images/carousel/carousel_2.lcr" width="1740" height="500" />
+                        <img src="/resources/images/project/1st-place.jpg" width="1740" height="500" />
+                        <overlay>
+                            <title>VR Slideshow Experience</title>
+                            <subtitle>Marc/Ted</subtitle>
+                        </overlay>
                     </lockup>
                     <lockup>
-                        <img src="/resources/images/carousel/carousel_3.lcr" width="1740" height="500" />
+                        <img src="/resources/images/project/2nd-place.jpg" width="1740" height="500" />
+                        <overlay>
+                            <title>Butler Stretching</title>
+                            <subtitle>Jason/Naeem/Haoyu</subtitle>
+                        </overlay>
                     </lockup>
                     <lockup>
-                        <img src="/resources/images/carousel/carousel_1.lcr" width="1740" height="500" />
+                        <img src="/resources/images/project/3rd-place.jpg" width="1740" height="500" />
+                        <overlay class="carouselOverlay">
+                            <img class="carouselOverlayImg" src="/resources/images/portrait/kevin-c-chen.jpg" width="128" height="160"/>
+                            <title class="carouselOverlayTitle">Performance Benchmark for Modern Web App</title>
+                            <subtitle class="carouselOverlaySubtitle">Kevin C</subtitle>
+                            <text class="carouselOverlayText">This slides provides the background of the Hack Day project (Performance Benchmarking for Modern Web App) I undertake and completed in 1.5 Days.</text>
+                        </overlay>
                     </lockup>
-                </section>
+            </section>
             </carousel>
             <shelf class="5ColumnGrid">
                 <header>

@@ -14,33 +14,13 @@
                 </header>
                 <listItemLockup>
                     <title>2016</title>
-                    <decorationLabel>21</decorationLabel>
+                    <decorationLabel>1</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup documentURL="/templates/product/Liucheng.xml">
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <img src="/resources/images/portrait/liu-cheng.jpeg" width="288" height="360" />
                                     <title class="whiteText">Liu Cheng</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 5</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -58,8 +38,8 @@
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_10.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/mason-lee.jpg" width="288" height="360" />
+                                    <title class="whiteText">Mason Lee</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -67,25 +47,17 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2004</title>
-                    <decorationLabel>4</decorationLabel>
+                    <decorationLabel>2</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/david-c-chen.jpg" width="288" height="360" />
+                                    <title class="whiteText">David C Chen</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
+                                    <img src="/resources/images/portrait/justin-forster.jpg" width="288" height="360" />
+                                    <title class="whiteText">Justin Forster</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -93,37 +65,17 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2005</title>
-                    <decorationLabel>7</decorationLabel>
+                    <decorationLabel>2</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/kevin-boyce.jpg" width="288" height="360" />
+                                    <title class="whiteText">Kevin Boyce</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 5</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
+                                    <img src="/resources/images/portrait/bill-mcgee.jpg" width="288" height="360" />
+                                    <title class="whiteText">Bill Mcgee</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -131,37 +83,21 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2006</title>
-                    <decorationLabel>7</decorationLabel>
+                    <decorationLabel>3</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/michael-dysart.jpg" width="288" height="360" />
+                                    <title class="whiteText">Michael Dysart</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
+                                    <img src="/resources/images/portrait/thanh-nyguyen.jpg" width="288" height="360" />
+                                    <title class="whiteText">Thanh Nyguyen</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 5</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
+                                    <img src="/resources/images/portrait/bob-durie.jpg" width="288" height="360" />
+                                    <title class="whiteText">Bob Durie</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -174,12 +110,8 @@
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
+                                    <img src="/resources/images/portrait/sumit-soni.jpg" width="288" height="360" />
+                                    <title class="whiteText">Sumit Soni</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -192,8 +124,8 @@
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/michael-vording.jpg" width="288" height="360" />
+                                    <title class="whiteText">Michael Vording</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -206,8 +138,8 @@
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/virendra-bisht.jpg" width="288" height="360" />
+                                    <title class="whiteText">Virendra Bisht</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -220,20 +152,20 @@
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/daniel-smith.jpg" width="240" height="300" />
+                                    <title class="whiteText">Daniel Smith</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
+                                    <img src="/resources/images/portrait/naeem-ul-haq.jpg" width="240" height="300" />
+                                    <title class="whiteText">Naeem Ul-Haq</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
+                                    <img src="/resources/images/portrait/christa-ross.jpg" width="240" height="300" />
+                                    <title class="whiteText">Christa Ross</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
+                                    <img src="/resources/images/portrait/saif-chaudhry.jpg" width="240" height="300" />
+                                    <title class="whiteText">Saif Chaudhry</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -241,25 +173,13 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2012</title>
-                    <decorationLabel>5</decorationLabel>
+                    <decorationLabel>1</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 5</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
+                                    <img src="/resources/images/portrait/hao-liu.jpg" width="288" height="360" />
+                                    <title class="whiteText">Hao Liu</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -267,37 +187,17 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2013</title>
-                    <decorationLabel>7</decorationLabel>
+                    <decorationLabel>2</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/henry-guan.jpg" width="288" height="360" />
+                                    <title class="whiteText">Henry Guan</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 5</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
+                                    <img src="/resources/images/portrait/nick-willan.jpg" width="288" height="360" />
+                                    <title class="whiteText">Nick Willan</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -305,37 +205,29 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2014</title>
-                    <decorationLabel>7</decorationLabel>
+                    <decorationLabel>5</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
+                                    <img src="/resources/images/portrait/bruce-mchaffie.jpg" width="240" height="300" />
+                                    <title class="whiteText">Bruce Mchaffie</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/krista-mccredie.jpg" width="240" height="300" />
+                                    <title class="whiteText">Krista Mccredie</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
+                                    <img src="/resources/images/portrait/parthy-chandrasekaran.jpg" width="240" height="300" />
+                                    <title class="whiteText">Parthy Chandrasekaran</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
+                                    <img src="/resources/images/portrait/behrooz-tabesh.jpg" width="240" height="300" />
+                                    <title class="whiteText">Behrooz Tabesh</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 5</title>
-                                </lockup>
-                                <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
+                                    <img src="/resources/images/portrait/scott-broschell.jpg" width="240" height="300" />
+                                    <title class="whiteText">Scott Broschell</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -343,33 +235,33 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2015</title>
-                    <decorationLabel>19</decorationLabel>
+                    <decorationLabel>6</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 1</title>
+                                    <img src="/resources/images/portrait/haoyu-li.jpg" width="240" height="300" />
+                                    <title class="whiteText">Haoyu Li</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 2</title>
+                                    <img src="/resources/images/portrait/chris-xu.jpg" width="240" height="300" />
+                                    <title class="whiteText">Chris Xu</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 3</title>
+                                    <img src="/resources/images/portrait/ted-zhou.jpg" width="240" height="300" />
+                                    <title class="whiteText">Ted Zhou</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 4</title>
+                                    <img src="/resources/images/portrait/eugene-deery.jpg" width="240" height="300" />
+                                    <title class="whiteText">Eugene Deery</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 5</title>
+                                    <img src="/resources/images/portrait/doug-burrill.jpg" width="240" height="300" />
+                                    <title class="whiteText">Doug Burrill</title>
                                 </lockup>
                                 <lockup>
-                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
-                                    <title class="whiteText">Title 6</title>
+                                    <img src="/resources/images/portrait/paul-zhang.jpg" width="272" height="340" />
+                                    <title class="whiteText">Pual Zhang</title>
                                 </lockup>
                             </section>
                         </grid>

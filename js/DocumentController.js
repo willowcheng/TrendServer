@@ -67,6 +67,31 @@ class DocumentController {
     handleEvent(event) {
         const target = event.target;
 
+        let videoURL = target.getAttribute("videoURL");
+        if(videoURL) {
+            //2
+            var videoPlayer = new Player();
+            var videoPlaylist = new Playlist();
+            var videoMediaItem = new MediaItem("video", videoURL);
+
+            videoPlayer.playlist = videoPlaylist;
+            videoPlayer.playlist.push(videoMediaItem);
+            videoPlayer.present();
+        }
+
+        let audioURL = target.getAttribute("audioURL");
+        if(audioURL) {
+            //2
+            var audioPlayer = new Player();
+            var audioPlaylist = new Playlist();
+            var audioMediaItem = new MediaItem("audio", audioURL);
+
+            audioMediaItem.artworkImageURL = target.getAttribute("artworkImageURL");
+            audioPlayer.playlist = audioPlaylist;
+            audioPlayer.playlist.push(audioMediaItem);
+            audioPlayer.present();
+        }
+
         const controllerOptions = resolveControllerFromElement(target);
         if (controllerOptions) {
             const controllerClass = controllerOptions.type;

@@ -14,18 +14,28 @@ See LICENSE.txt for this sample’s licensing information
                     <title>Dec 23, 2015</title>
                     <relatedContent>
                         <imgDeck>
-                            <img src="/resources/images/general/square_l_10.jpg" />
-                            <img src="/resources/images/general/square_l_8.jpg" />
-                            <img src="/resources/images/general/square_l_6.jpg" />
-                            <img src="/resources/images/general/square_l_4.jpg" />
+                            <img src="/resources/images/project/1st-place.jpg" />
+                            <img src="/resources/images/project/2nd-place.jpg" />
+                            <img src="/resources/images/project/3rd-place.jpg" />
                         </imgDeck>
                     </relatedContent>
                 </listItemLockup>
                 <listItemLockup>
                     <title>Aug 12, 2015</title>
+                    <relatedContent>
+                        <imgDeck>
+                            <img src="/resources/images/project/random-1.png" />
+                            <img src="/resources/images/project/random-2.jpg" />
+                        </imgDeck>
+                    </relatedContent>
                 </listItemLockup>
                 <listItemLockup>
                     <title>Jan 28, 2015</title>
+                    <relatedContent>
+                        <imgDeck>
+                            <img src="/resources/images/project/random-3.jpg" />
+                        </imgDeck>
+                    </relatedContent>
                 </listItemLockup>
                 <listItemLockup>
                     <title>Sep 8, 2014</title>
@@ -39,16 +49,9 @@ See LICENSE.txt for this sample’s licensing information
             </section>
             <relatedContent>
                 <imgDeck>
-                    <img src="/resources/images/general/square_l_1.jpg" />
-                    <img src="/resources/images/general/square_l_2.jpg" />
-                    <img src="/resources/images/general/square_l_3.jpg" />
-                    <img src="/resources/images/general/square_l_4.jpg" />
-                    <img src="/resources/images/general/square_l_5.jpg" />
-                    <img src="/resources/images/general/square_l_6.jpg" />
-                    <img src="/resources/images/general/square_l_7.jpg" />
-                    <img src="/resources/images/general/square_l_8.jpg" />
-                    <img src="/resources/images/general/square_l_9.jpg" />
-                    <img src="/resources/images/general/square_l_10.jpg" />
+                    <img src="/resources/images/project/random-1.png" />
+                    <img src="/resources/images/project/random-2.jpg" />
+                    <img src="/resources/images/project/random-3.jpg" />
                 </imgDeck>
             </relatedContent>
         </list>
