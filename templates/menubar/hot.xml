@@ -142,20 +142,23 @@ See LICENSE.txt for this sample’s licensing information
             </carousel>
             <shelf>
                 <header>
-                    <title>Progress Bar &amp; Watched Overlay</title>
+                    <title>video</title>
                 </header>
-
                 <section>
                     <lockup>
-                        <img src="/resources/images/lockups/episode_1.jpg" width="308" height="175" />
-                        <title>Progress Bar</title>
+                        <img width="308" height="308" src="/resources/images/project/random-1.png" />
+                        <title>Raspberry Pi</title>
+                    </lockup>
+                    <lockup>
+                        <img width="308" height="308" src="/resources/images/project/random-2.jpg" />
+                        <title>Kinect for Xbox</title>
                         <overlay class="progressOverlay">
-                            <progressBar value="0.1"/>
+                            <badge class="watchedOverlayImg" src="resource://overlay-checkmark"/>
                         </overlay>
                     </lockup>
                     <lockup>
-                        <img src="/resources/images/lockups/episode_2.jpg" width="308" height="175" />
-                        <title>Watched Episode</title>
+                        <img width="308" height="308" src="/resources/images/project/random-3.jpg" />
+                        <title>3D Printing</title>
                         <overlay class="progressOverlay">
                             <badge class="watchedOverlayImg" src="resource://overlay-checkmark"/>
                         </overlay>
@@ -167,14 +170,14 @@ See LICENSE.txt for this sample’s licensing information
                     <title>Activity</title>
                 </header>
                 <section>
-                    <lockup>
+                    <lockup documentURL="/templates/oneup/Activity.xml">
                         <img class="imgGradientRed" src="/resources/images/activity/dragon-boat.jpg" width="548" height="250" />
                         <overlay>
                             <title class="gradientOverlayTitle">Dragon Boat Festival</title>
                             <subtitle class="gradientOverlaySubtitle">Trend has teamed up with paddlers</subtitle>
                         </overlay>
                     </lockup>
-                    <lockup>
+                    <lockup documentURL="/templates/oneup/Activity.xml">
                         <img class="imgGradientBlue" src="/resources/images/activity/table-tennis.jpg" width="548" height="250" />
                         <overlay>
                             <title class="gradientOverlayTitle">Ping Pong Tournament</title>
@@ -185,7 +188,7 @@ See LICENSE.txt for this sample’s licensing information
             </shelf>
             <shelf>
                 <header>
-                    <title>news</title>
+                    <title>News</title>
                 </header>
                 <section>
                     <card class="musicMiniCard">
@@ -206,21 +209,6 @@ See LICENSE.txt for this sample’s licensing information
                         <subtitle class="musicMiniSubtitle">Global</subtitle>
                         <description class="musicMiniDescription">Whether you’ve deployed Deep Security via the AWS Marketplace, signed up for Deep Security as a Service, or setup the Deep Security Manager on-premises, here are six steps you can take in your first 15 minutes using the platform that will set you up for success.</description>
                     </card>
-                </section>
-            </shelf>
-            <shelf>
-                <header>
-                    <title>Share</title>
-                </header>
-                <section>
-                    <lockup>
-                        <img width="308" height="308" style="tv-placeholder: tv;" />
-                        <title>Video</title>
-                    </lockup>
-                    <lockup>
-                        <img width="308" height="308" style="tv-placeholder: music;" />
-                        <title>Bridge</title>
-                    </lockup>
                 </section>
             </shelf>
         </collectionList>

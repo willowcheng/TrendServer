@@ -18,7 +18,7 @@
                     <relatedContent>
                         <grid>
                             <section>
-                                <lockup documentURL="/templates/product/Liucheng.xml">
+                                <lockup documentURL="/templates/product/LiuCheng.xml">
                                     <img src="/resources/images/portrait/liu-cheng.jpeg" width="288" height="360" />
                                     <title class="whiteText">Liu Cheng</title>
                                 </lockup>
@@ -235,7 +235,7 @@
                 </listItemLockup>
                 <listItemLockup>
                     <title>2015</title>
-                    <decorationLabel>6</decorationLabel>
+                    <decorationLabel>7</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
@@ -262,6 +262,10 @@
                                 <lockup>
                                     <img src="/resources/images/portrait/paul-zhang.jpg" width="272" height="340" />
                                     <title class="whiteText">Pual Zhang</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/portrait/jason-milley.jpg" width="272" height="340" />
+                                    <title class="whiteText">Jason Milley</title>
                                 </lockup>
                             </section>
                         </grid>

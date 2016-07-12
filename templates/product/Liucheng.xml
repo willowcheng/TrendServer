@@ -30,11 +30,11 @@ See LICENSE.txt for this sample’s licensing information
 
                 <description handlesOverflow="true">Quisque venenatis orci nec nisl bibendum, id pharetra turpis vulputate. Etiam placerat elit vel iaculis eleifend. Sed sit amet arcu a quam commodo pharetra eget eget elit. Cras dignissim accumsan tellus, sit amet vulputate orci porttitor non.</description>
                 <row>
-                    <buttonLockup videoURL="http://www.rwdevcon.com/videos/Ray-Wenderlich-Teamwork.mp4">
+                    <buttonLockup videoURL="http://10.52.120.149:9000/resources/video/liu-video.mp4">
                         <badge src="resource://button-preview" />
                         <title>Video</title>
                     </buttonLockup>
-                    <buttonLockup audioURL="http://anything2mp3.com/system/files/mstr1/4.%20Modern%20%28bridge%29_141115725_soundcloud.mp3" artworkImageURL="http://10.52.120.149:9000/resources/images/artwork.jpg">
+                    <buttonLockup audioURL="http://10.52.120.149:9000/resources/audio/liu-audio.mp3" artworkImageURL="http://10.52.120.149:9000/resources/images/artwork.jpg">
                         <badge src="resource://button-play" />
                         <title>Audio</title>
                     </buttonLockup>

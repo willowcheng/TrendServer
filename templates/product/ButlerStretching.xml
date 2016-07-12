@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            .showTextOnHighlight {
+            tv-text-highlight-style: show-on-highlight;
+            }
+            .badge {
+            tv-tint-color: rgb(255,255,255);
+            }
+            .9ColumnGrid {
+            tv-interitem-spacing: 51;
+            }
+        </style>
+    </head>
+    <productTemplate theme="dark">
+        <background>
+            <img src="/resources/images/project/2nd-place.jpg" />
+        </background>
+        <banner>
+            <infoList>
+                <info>
+                    <header>
+                        <title>Leader</title>
+                    </header>
+                    <text>Jason</text>
+                </info>
+                <info>
+                    <header>
+                        <title>Member</title>
+                    </header>
+                    <text>Naeem</text>
+                    <text>Haoyu</text>
+                </info>
+            </infoList>
+            <stack>
+                <title>Butler Stretching</title>
+                <!-- In lieu of title an image can be used of size max dimensions of 846x130 -->
+                <!-- <img src="" width="846.0" height="130.0" /> -->
+                <row>
+                    <text>Software Test</text>
+                    <text>Performance</text>
+                </row>
+                <description handlesOverflow="true">Proin feugiat, leo in sagittis suscipit, enim lorem adipiscing magna, id pellentesque ante quam nec quam. Morbi lacus mi, pretium quis dolor viverra, imperdiet imperdiet ligula. Integer et rutrum leo, sed ornare velit. Donec et sollicitudin arcu, at luctus nibh.
+                    Nulla dictum tincidunt turpis eu consequat. Sed adipiscing eros a nisi dictum mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus urna lorem, porta sed congue ut, sollicitudin quis erat. Phasellus condimentum odio elit, in placerat augue congue ac.</description>
+                <row>
+                    <buttonLockup>
+                        <badge src="resource://button-preview" />
+                        <title>Video</title>
+                    </buttonLockup>
+                </row>
+            </stack>
+        </banner>
+        <shelf>
+            <header>
+                <title>Contribution</title>
+            </header>
+            <section>
+                <monogramLockup>
+                    <monogram src="/resources/images/portrait/jason-milley.jpg" />
+                    <title>Jason Milley</title>
+                    <subtitle>Leader</subtitle>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram src="/resources/images/portrait/naeem-ul-haq.jpg" />
+                    <title>Naeem Ul-Haq</title>
+                    <subtitle>Member</subtitle>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram src="/resources/images/portrait/haoyu-li.jpg" />
+                    <title>Haoyu Li</title>
+                    <subtitle>Member</subtitle>
+                </monogramLockup>
+            </section>
+        </shelf>
+
+        <separator />
+
+        <productInfo>
+            <infoTable>
+                <header>
+                    <title>Highlights</title>
+                </header>
+
+                <info>
+                    <header>
+                        <title>Time</title>
+                    </header>
+                    <text>1 day</text>
+                </info>
+
+                <info>
+                    <header>
+                        <title>Production</title>
+                    </header>
+                    <text>Yes</text>
+                </info>
+                <info>
+                    <header>
+                        <title>Votes</title>
+                    </header>
+                    <text>17</text>
+                </info>
+                <footer>
+                    <text>Awarded with Amazon Gift Card</text>
+                </footer>
+            </infoTable>
+            <infoTable>
+                <header>
+                    <title>Language</title>
+                </header>
+                <info>
+                    <header>
+                        <title>Primary&#xD;Additional</title>
+                    </header>
+                    <description>English&#xD;Mandarin (Subtitles)&#xD;
+                    </description>
+                </info>
+            </infoTable>
+        </productInfo>
+    </productTemplate>
+</document>

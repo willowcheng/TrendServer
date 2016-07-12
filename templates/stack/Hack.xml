@@ -31,7 +31,7 @@ See LICENSE.txt for this sample’s licensing information
                             <subtitle>Marc/Ted</subtitle>
                         </overlay>
                     </lockup>
-                    <lockup>
+                    <lockup documentURL="/templates/product/ButlerStretching.xml">
                         <img src="/resources/images/project/2nd-place.jpg" width="1740" height="500" />
                         <overlay>
                             <title>Butler Stretching</title>
