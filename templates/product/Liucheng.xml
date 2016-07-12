@@ -40,7 +40,7 @@ See LICENSE.txt for this sample’s licensing information
                     </buttonLockup>
                 </row>
             </stack>
-            <heroImg src="/resources/images/general/square_l_7.jpg" width="666" height="666" />
+            <heroImg src="/resources/images/portrait/liu-cheng.jpeg" width="360" height="480" />
         </banner>
     </productBundleTemplate>
 </document>
