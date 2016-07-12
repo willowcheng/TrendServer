@@ -10,7 +10,7 @@ See LICENSE.txt for this sample’s licensing information
                 <title>Hack Day</title>
             </header>
             <section>
-                <listItemLockup>
+                <listItemLockup documentURL="/templates/stack/Hack.xml">
                     <title>July 2016</title>
                     <relatedContent>
                         <imgDeck>

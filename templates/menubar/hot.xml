@@ -86,14 +86,12 @@ See LICENSE.txt for this sample’s licensing information
             .musicMiniCard {
             width:666;
             height:308;
-            border-radius: 12;
             background-color: rgba(255, 255, 255, 0.7);
             }
             .musicMiniImage {
             width:308;
             height:308;
             tv-position:left;
-            border-radius: 12 0 0 12;
             }
             .musicMiniTitle {
             text-align: left;
@@ -178,55 +176,69 @@ See LICENSE.txt for this sample’s licensing information
             </shelf>
             <shelf>
                 <header>
-                    <title>Gradients</title>
+                    <title>Activity</title>
                 </header>
                 <section>
                     <lockup>
                         <img class="imgGradient" src="/resources/images/lockups/featured_1.jpg" width="548" height="250" />
                         <overlay>
-                            <title class="gradientOverlayTitle">Overlay Title</title>
-                            <subtitle class="gradientOverlaySubtitle">Overlay Subtitle</subtitle>
+                            <title class="gradientOverlayTitle">Dragon Boat Festival</title>
+                            <subtitle class="gradientOverlaySubtitle">Trend has teamed up with paddlers</subtitle>
+                        </overlay>
+                    </lockup>
+                    <lockup>
+                        <img class="imgGradient" src="/resources/images/lockups/featured_1.jpg" width="548" height="250" />
+                        <overlay>
+                            <title class="gradientOverlayTitle">Dragon Boat Festival</title>
+                            <subtitle class="gradientOverlaySubtitle">Trend has teamed up with paddlers</subtitle>
+                        </overlay>
+                    </lockup>
+                    <lockup>
+                        <img class="imgGradient" src="/resources/images/lockups/featured_1.jpg" width="548" height="250" />
+                        <overlay>
+                            <title class="gradientOverlayTitle">Dragon Boat Festival</title>
+                            <subtitle class="gradientOverlaySubtitle">Trend has teamed up with paddlers</subtitle>
                         </overlay>
                     </lockup>
                 </section>
             </shelf>
             <shelf>
                 <header>
-                    <title>Cards</title>
+                    <title>news</title>
                 </header>
                 <section>
-                    <card class="simpleCard">
-                        <title class="simpleCardTitle">Title</title>
-                        <subtitle class="simpleCardSubtitle">Subtitle</subtitle>
+                    <card class="musicMiniCard">
+                        <img class="musicMiniImage" src="/resources/images/news/bebloh.jpg" />
+                        <title class="musicMiniTitle">BEBLOH Expanding</title>
+                        <subtitle class="musicMiniSubtitle">Japan</subtitle>
+                        <description class="musicMiniDescription">An old banking Trojan has been operating in Europe on a low level has spiked in activity after migrating to Japan. Cybercriminals are using local brand names such as local ISP providers and legitimate looking addresses to fool users into downloading malware that can steal information by monitoring browsers, file transfer protocol (FTP) clients, and mail clients. Its targets? Mostly rural banks.</description>
                     </card>
                     <card class="musicMiniCard">
-                        <img class="musicMiniImage" src="/resources/images/general/square_l_1.jpg" />
-                        <title class="musicMiniTitle">Title</title>
-                        <subtitle class="musicMiniSubtitle">Subtitle</subtitle>
-                        <description class="musicMiniDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget elit vel orci facilisis rhoncus quis quis turpis. Phasellus a arcu ac eros condimentum hendrerit vitae sit amet mauris. Nunc molestie velit vel est elementum mollis. Quisque semper sodales metus rhoncus dictum. Suspendisse ultrices congue imperdiet. Cras convallis nisl eget turpis finibus, ac rhoncus risus mattis. Praesent rhoncus dapibus magna, at convallis arcu lobortis eget. Sed malesuada vehicula enim, at vulputate dolor tincidunt eu. Curabitur congue non leo in vestibulum.</description>
+                        <img class="musicMiniImage" src="/resources/images/news/ransomeware.jpg" />
+                        <title class="musicMiniTitle">Ransomware</title>
+                        <subtitle class="musicMiniSubtitle">Global</subtitle>
+                        <description class="musicMiniDescription">Take the Ransomware Readiness Assessment to gain insight into how your organization is set up to deal with a ransomware attack. Get tips, preventative measures, and solutions you can use to improve your ransomware security posture.</description>
+                    </card>
+                    <card class="musicMiniCard">
+                        <img class="musicMiniImage" src="/resources/images/news/deep-security.png" />
+                        <title class="musicMiniTitle">Deep Security</title>
+                        <subtitle class="musicMiniSubtitle">Global</subtitle>
+                        <description class="musicMiniDescription">Whether you’ve deployed Deep Security via the AWS Marketplace, signed up for Deep Security as a Service, or setup the Deep Security Manager on-premises, here are six steps you can take in your first 15 minutes using the platform that will set you up for success.</description>
                     </card>
                 </section>
             </shelf>
             <shelf>
                 <header>
-                    <title>Placeholders</title>
+                    <title>Share</title>
                 </header>
                 <section>
                     <lockup>
-                        <img width="308" height="308" style="tv-placeholder: movie;" />
-                        <title>Movie</title>
-                    </lockup>
-                    <lockup>
                         <img width="308" height="308" style="tv-placeholder: tv;" />
-                        <title>TV</title>
+                        <title>Video</title>
                     </lockup>
                     <lockup>
                         <img width="308" height="308" style="tv-placeholder: music;" />
                         <title>Music</title>
-                    </lockup>
-                    <lockup>
-                        <img width="308" height="308" style="tv-placeholder: podcast;" />
-                        <title>Podcast</title>
                     </lockup>
                 </section>
             </shelf>
