@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            .showTextOnHighlight {
+            tv-text-highlight-style: show-on-highlight;
+            }
+            .badge {
+            tv-tint-color: rgb(255,255,255);
+            }
+            .5ColumnGrid {
+            tv-interitem-spacing: 50;
+            }
+        </style>
+    </head>
+    <productBundleTemplate theme="dark">
+        <banner>
+            <stack>
+                <title>Liu Cheng</title>
+                <subtitle>Front End Developer | 2016</subtitle>
+                <row>
+                    <text>Mobile App</text>
+                    <text>UI</text>
+                    <text>Music</text>
+                </row>
+
+                <description handlesOverflow="true">Quisque venenatis orci nec nisl bibendum, id pharetra turpis vulputate. Etiam placerat elit vel iaculis eleifend. Sed sit amet arcu a quam commodo pharetra eget eget elit. Cras dignissim accumsan tellus, sit amet vulputate orci porttitor non.</description>
+                <row>
+                    <buttonLockup>
+                        <badge src="resource://button-preview" />
+                        <title>Video</title>
+                    </buttonLockup>
+                    <buttonLockup>
+                        <badge src="resource://button-play" />
+                        <title>Audio</title>
+                    </buttonLockup>
+                </row>
+            </stack>
+            <heroImg src="/resources/images/general/square_l_7.jpg" width="666" height="666" />
+        </banner>
+    </productBundleTemplate>
+</document>

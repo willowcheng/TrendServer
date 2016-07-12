@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <paradeTemplate>
+        <list>
+            <header>
+                <title>Hack Day</title>
+            </header>
+            <section>
+                <listItemLockup>
+                    <title>July 2016</title>
+                    <relatedContent>
+                        <imgDeck>
+                            <img src="/resources/images/general/square_l_10.jpg" />
+                            <img src="/resources/images/general/square_l_8.jpg" />
+                            <img src="/resources/images/general/square_l_6.jpg" />
+                            <img src="/resources/images/general/square_l_4.jpg" />
+                        </imgDeck>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>Dec 2015</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>Aug 2015</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>Jan 2015</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>Sep 2014</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>Apr 2014</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>Nov 2013</title>
+                </listItemLockup>
+            </section>
+            <relatedContent>
+                <imgDeck>
+                    <img src="/resources/images/general/square_l_1.jpg" />
+                    <img src="/resources/images/general/square_l_2.jpg" />
+                    <img src="/resources/images/general/square_l_3.jpg" />
+                    <img src="/resources/images/general/square_l_4.jpg" />
+                    <img src="/resources/images/general/square_l_5.jpg" />
+                    <img src="/resources/images/general/square_l_6.jpg" />
+                    <img src="/resources/images/general/square_l_7.jpg" />
+                    <img src="/resources/images/general/square_l_8.jpg" />
+                    <img src="/resources/images/general/square_l_9.jpg" />
+                    <img src="/resources/images/general/square_l_10.jpg" />
+                </imgDeck>
+            </relatedContent>
+        </list>
+    </paradeTemplate>
+</document>
