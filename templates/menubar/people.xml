@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+        </style>
+    </head>
+    <catalogTemplate>
+        <banner>
+            <title>People</title>
+        </banner>
+        <list>
+            <section>
+                <header>
+                    <title>Most Recent</title>
+                </header>
+                <listItemLockup>
+                    <title>2016</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+            </section>
+            <section>
+                <header>
+                    <title>Years</title>
+                </header>
+                <listItemLockup>
+                    <title>2000</title>
+                    <decorationLabel>10</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_10.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_9.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_8.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_7.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 7</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 8</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 9</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 10</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2004</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2005</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2006</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2007</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2008</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2009</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2011</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2012</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2013</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2014</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup>
+                    <title>2015</title>
+                    <decorationLabel>6</decorationLabel>
+                    <relatedContent>
+                        <grid>
+                            <section>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_6.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 1</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_5.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 2</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_4.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 3</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_3.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 4</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_2.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 5</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/lockups/square_1.jpg" width="340" height="340" />
+                                    <title class="whiteText">Title 6</title>
+                                </lockup>
+                            </section>
+                        </grid>
+                    </relatedContent>
+                </listItemLockup>
+            </section>
+        </list>
+    </catalogTemplate>
+</document>

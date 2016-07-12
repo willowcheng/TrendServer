@@ -1,31 +1,31 @@
 /*
-Copyright (C) 2016 Apple Inc. All Rights Reserved.
-See LICENSE.txt for this sample’s licensing information
+ Copyright (C) 2016 Apple Inc. All Rights Reserved.
+ See LICENSE.txt for this sample’s licensing information
 
-Abstract:
-This is the entry point to the application and handles the initial loading of required JavaScript files.
+ Abstract:
+ This is the entry point to the application and handles the initial loading of required JavaScript files.
 
-        This application uses custom attributes specified in the markup to define document URLs to be loaded on select / play event.
-        These attributes are mapped to a corresponding controller class defined in this application, which are responsible for handling 
-        the life-cycle and events of that document. 
+ This application uses custom attributes specified in the markup to define document URLs to be loaded on select / play event.
+ These attributes are mapped to a corresponding controller class defined in this application, which are responsible for handling
+ the life-cycle and events of that document.
 
-        The following attributes are used in this application:
-        - "documentURL" maps to DocumentController: this is the default controller that is used to fetch and push a document on the navigation stack.
+ The following attributes are used in this application:
+ - "documentURL" maps to DocumentController: this is the default controller that is used to fetch and push a document on the navigation stack.
 
-        - "menuBarDocumentURL" maps to MenuBarController: the menuBarTemplate itself is pushed on navigation stack (hence subclasses from DocumentController),
-                but this controller manages the document controllers associated with the menu items of the template.
+ - "menuBarDocumentURL" maps to MenuBarController: the menuBarTemplate itself is pushed on navigation stack (hence subclasses from DocumentController),
+ but this controller manages the document controllers associated with the menu items of the template.
 
-        - "modalDocumentURL" maps to ModalController: This controller is similar to DocumentController but presents the 
-                document as modal.
+ - "modalDocumentURL" maps to ModalController: This controller is similar to DocumentController but presents the
+ document as modal.
 
-        - "searchDocumentURL" maps to SearchController: Handles the search template. This example demonstrates a default shelf
-                , suggestions list and search results from iTunes store. The default results and suggestions are mocked.
+ - "searchDocumentURL" maps to SearchController: Handles the search template. This example demonstrates a default shelf
+ , suggestions list and search results from iTunes store. The default results and suggestions are mocked.
 
-        - "listDocumentURL" maps to ListController: Handles the list with segment and tumbler elements.
+ - "listDocumentURL" maps to ListController: Handles the list with segment and tumbler elements.
 
-        - "slideshowImageURLs" maps to SlideshowController: Handles the presentation of slideshow of photos specified by the 
-                attribute.
-*/
+ - "slideshowImageURLs" maps to SlideshowController: Handles the presentation of slideshow of photos specified by the
+ attribute.
+ */
 
 /**
  * @description The onLaunch callback is invoked after the application JavaScript
