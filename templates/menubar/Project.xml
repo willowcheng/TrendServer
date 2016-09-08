@@ -14,46 +14,13 @@ See LICENSE.txt for this sample’s licensing information
                     <title>Dec 23, 2015</title>
                     <relatedContent>
                         <imgDeck>
-                            <img src="/resources/images/project/1st-place.jpg" />
-                            <img src="/resources/images/project/2nd-place.jpg" />
-                            <img src="/resources/images/project/3rd-place.jpg" />
+                            <img src="/resources/images/project/butler-stretching.jpg" />
+                            <img src="/resources/images/project/performance-benchmark-for-modern-web-app.jpg" />
+                            <img src="/resources/images/project/trend-tvos.jpg" />
                         </imgDeck>
                     </relatedContent>
-                </listItemLockup>
-                <listItemLockup>
-                    <title>Aug 12, 2015</title>
-                    <relatedContent>
-                        <imgDeck>
-                            <img src="/resources/images/project/random-1.png" />
-                            <img src="/resources/images/project/random-2.jpg" />
-                        </imgDeck>
-                    </relatedContent>
-                </listItemLockup>
-                <listItemLockup>
-                    <title>Jan 28, 2015</title>
-                    <relatedContent>
-                        <imgDeck>
-                            <img src="/resources/images/project/random-3.jpg" />
-                        </imgDeck>
-                    </relatedContent>
-                </listItemLockup>
-                <listItemLockup>
-                    <title>Sep 8, 2014</title>
-                </listItemLockup>
-                <listItemLockup>
-                    <title>Apr 23, 2014</title>
-                </listItemLockup>
-                <listItemLockup>
-                    <title>Nov, 20 2013</title>
                 </listItemLockup>
             </section>
-            <relatedContent>
-                <imgDeck>
-                    <img src="/resources/images/project/random-1.png" />
-                    <img src="/resources/images/project/random-2.jpg" />
-                    <img src="/resources/images/project/random-3.jpg" />
-                </imgDeck>
-            </relatedContent>
         </list>
     </paradeTemplate>
 </document>

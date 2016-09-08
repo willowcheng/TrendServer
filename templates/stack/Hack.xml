@@ -25,21 +25,21 @@ See LICENSE.txt for this sample’s licensing information
             <carousel>
                 <section>
                     <lockup>
-                        <img src="/resources/images/project/1st-place.jpg" width="1740" height="500" />
+                        <img src="/resources/images/project/trend-tvos.png" width="1740" height="500" />
                         <overlay>
-                            <title>VR Slideshow Experience</title>
-                            <subtitle>Marc/Ted</subtitle>
+                            <title>A tvOS Application - Trend</title>
+                            <subtitle>Liu Cheng</subtitle>
                         </overlay>
                     </lockup>
                     <lockup documentURL="/templates/product/ButlerStretching.xml">
-                        <img src="/resources/images/project/2nd-place.jpg" width="1740" height="500" />
+                        <img src="/resources/images/project/butler-stretching.jpg" width="1740" height="500" />
                         <overlay>
                             <title>Butler Stretching</title>
                             <subtitle>Jason/Naeem/Haoyu</subtitle>
                         </overlay>
                     </lockup>
                     <lockup>
-                        <img src="/resources/images/project/3rd-place.jpg" width="1740" height="500" />
+                        <img src="/resources/images/project/performance-benchmark-for-modern-web-app.jpg" width="1740" height="500" />
                         <overlay class="carouselOverlay">
                             <img class="carouselOverlayImg" src="/resources/images/portrait/kevin-c-chen.jpg" width="128" height="160"/>
                             <title class="carouselOverlayTitle">Performance Benchmark for Modern Web App</title>
@@ -49,101 +49,6 @@ See LICENSE.txt for this sample’s licensing information
                     </lockup>
             </section>
             </carousel>
-            <shelf class="5ColumnGrid">
-                <header>
-                    <title>Featured</title>
-                </header>
-                <section>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_1.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Visualizing Network Traffic</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_2.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Arduino 101</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_3.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Tenant Mover Microservice</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_4.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Bypassing DS Default Config</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_5.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Run Command Heartbeat Now</title>
-                    </lockup>
-                </section>
-            </shelf>
-            <shelf class="3ColumnGrid">
-                <header>
-                    <title>Recommend</title>
-                </header>
-                <section>
-                    <lockup>
-                        <img src="/resources/images/lockups/featured_1.jpg" width="548" height="250" />
-                        <title class="showTextOnHighlight">Plug n Play Widgets using JSON and Angular</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/featured_2.jpg" width="548" height="250" />
-                        <title class="showTextOnHighlight">Zephyr</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/featured_3.jpg" width="548" height="250" />
-                        <title class="showTextOnHighlight">Bouncycastle open source patch</title>
-                    </lockup>
-                </section>
-            </shelf>
-
-            <separator>
-                <text style="tv-text-style:body; margin: 0 10;">Other</text>
-            </separator>
-
-            <grid>
-                <section>
-                    <lockup>
-                        <img src="/resources/images/lockups/movie_1.lcr" width="205" height="308" />
-                        <title class="showTextOnHighlight">Real Hacking with Vmotion</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/movie_2.lcr" width="205" height="308" />
-                        <title class="showTextOnHighlight">Chart DSA Profiling Data</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_2.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Native iOS Apps from Visual Studio</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/movie_3.lcr" width="205" height="308" />
-                        <title class="showTextOnHighlight">CF Case Creation in Jira</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_3.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Spark to filter log files</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/movie_4.lcr" width="205" height="308" />
-                        <title class="showTextOnHighlight">Config Rules, KMS, and the DSM API</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_1.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Performance Benchmark for Modern Web App</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_4.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">VR Slideshow Experience</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/movie_5.lcr" width="205" height="308" />
-                        <title class="showTextOnHighlight">Butler Stretching</title>
-                    </lockup>
-                    <lockup>
-                        <img src="/resources/images/lockups/square_5.jpg" width="308" height="308" />
-                        <title class="showTextOnHighlight">Butler Stretching</title>
-                    </lockup>
-                </section>
-            </grid>
         </collectionList>
     </stackTemplate>
 </document>

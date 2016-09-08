@@ -129,39 +129,25 @@ See LICENSE.txt for this sample’s licensing information
         <collectionList>
             <carousel>
                 <section>
-                    <lockup>
-                        <img src="/resources/images/carousel/carousel_2.lcr" width="1740" height="500" />
+                    <lockup documentURL="/templates/oneup/Activity.xml">
+                        <img src="/resources/images/activity/dragon-boat.jpg" width="1740" height="500" />
                     </lockup>
-                    <lockup>
-                        <img src="/resources/images/carousel/carousel_3.lcr" width="1740" height="500" />
+                    <lockup documentURL="/templates/oneup/Activity.xml">
+                        <img src="/resources/images/activity/table-tennis.jpg" width="1740" height="500" />
                     </lockup>
-                    <lockup>
-                        <img src="/resources/images/carousel/carousel_1.lcr" width="1740" height="500" />
+                    <lockup documentURL="/templates/oneup/Activity.xml">
+                        <img src="/resources/images/activity/golf.jpg" width="1740" height="500" />
                     </lockup>
                 </section>
             </carousel>
             <shelf>
                 <header>
-                    <title>video</title>
+                    <title>Video</title>
                 </header>
                 <section>
-                    <lockup>
+                    <lockup videoURL="http://127.0.0.1:9001/resources/video/table-tennis-tournament.mp4" >
                         <img width="308" height="308" src="/resources/images/project/random-1.png" />
-                        <title>Raspberry Pi</title>
-                    </lockup>
-                    <lockup>
-                        <img width="308" height="308" src="/resources/images/project/random-2.jpg" />
-                        <title>Kinect for Xbox</title>
-                        <overlay class="progressOverlay">
-                            <badge class="watchedOverlayImg" src="resource://overlay-checkmark"/>
-                        </overlay>
-                    </lockup>
-                    <lockup>
-                        <img width="308" height="308" src="/resources/images/project/random-3.jpg" />
-                        <title>3D Printing</title>
-                        <overlay class="progressOverlay">
-                            <badge class="watchedOverlayImg" src="resource://overlay-checkmark"/>
-                        </overlay>
+                        <title>Table Tennis Tournament</title>
                     </lockup>
                 </section>
             </shelf>
@@ -184,31 +170,6 @@ See LICENSE.txt for this sample’s licensing information
                             <subtitle class="gradientOverlaySubtitle">Daily sport in our second floor</subtitle>
                         </overlay>
                     </lockup>
-                </section>
-            </shelf>
-            <shelf>
-                <header>
-                    <title>News</title>
-                </header>
-                <section>
-                    <card class="musicMiniCard">
-                        <img class="musicMiniImage" src="/resources/images/news/bebloh.jpg" />
-                        <title class="musicMiniTitle">BEBLOH Expanding</title>
-                        <subtitle class="musicMiniSubtitle">Japan</subtitle>
-                        <description class="musicMiniDescription">An old banking Trojan has been operating in Europe on a low level has spiked in activity after migrating to Japan. Cybercriminals are using local brand names such as local ISP providers and legitimate looking addresses to fool users into downloading malware that can steal information by monitoring browsers, file transfer protocol (FTP) clients, and mail clients. Its targets? Mostly rural banks.</description>
-                    </card>
-                    <card class="musicMiniCard">
-                        <img class="musicMiniImage" src="/resources/images/news/ransomeware.jpg" />
-                        <title class="musicMiniTitle">Ransomware</title>
-                        <subtitle class="musicMiniSubtitle">Global</subtitle>
-                        <description class="musicMiniDescription">Take the Ransomware Readiness Assessment to gain insight into how your organization is set up to deal with a ransomware attack. Get tips, preventative measures, and solutions you can use to improve your ransomware security posture.</description>
-                    </card>
-                    <card class="musicMiniCard">
-                        <img class="musicMiniImage" src="/resources/images/news/deep-security.png" />
-                        <title class="musicMiniTitle">Deep Security</title>
-                        <subtitle class="musicMiniSubtitle">Global</subtitle>
-                        <description class="musicMiniDescription">Whether you’ve deployed Deep Security via the AWS Marketplace, signed up for Deep Security as a Service, or setup the Deep Security Manager on-premises, here are six steps you can take in your first 15 minutes using the platform that will set you up for success.</description>
-                    </card>
                 </section>
             </shelf>
         </collectionList>

@@ -23,6 +23,11 @@ See LICENSE.txt for this sample’s licensing information
                 <title>Ping Pong Tournament</title>
                 <subtitle>Daily sport in our second floor</subtitle>
             </lockup>
+            <lockup>
+                <img src="/resources/images/activity/golf.jpg" />
+                <title>Golf @ Loch March</title>
+                <subtitle>Glof was fun (but oh so HOT!)</subtitle>
+            </lockup>
         </section>
     </oneupTemplate>
 </document>
