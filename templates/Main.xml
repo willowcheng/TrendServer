@@ -1,13 +1,13 @@
 <document>
     <menuBarTemplate>
         <menuBar>
-            <menuItem documentURL="/templates/menubar/Hot.xml" autoHighlight="true">
+            <menuItem documentURL="/templates/menubar/hot.xml" autoHighlight="true">
                 <title>Hot</title>
             </menuItem>
-            <menuItem documentURL="/templates/menubar/People.xml">
+            <menuItem documentURL="/templates/menubar/people.xml">
                 <title>People</title>
             </menuItem>
-            <menuItem documentURL="/templates/menubar/Project.xml">
+            <menuItem documentURL="/templates/menubar/project.xml">
                 <title>Project</title>
             </menuItem>
         </menuBar>

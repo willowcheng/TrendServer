@@ -48,6 +48,9 @@ See LICENSE.txt for this sample’s licensing information
             .imgGradientRed {
             tv-tint-color: linear-gradient(top, 0.37, transparent, 0.5, rgba(195,28,45,0.5), 0.96, rgba(195,28,45,1.0), rgba(195,28,45,1.0));
             }
+            .imgGradientGreen {
+            tv-tint-color: linear-gradient(top, 0.37, transparent, 0.5, rgba(0,139,139,0.5), 0.96, rgba(0,139,139,1.0), rgba(0,139,139,1.0));
+            }
             .gradientOverlayTitle {
             tv-text-max-lines: 1;
             tv-text-style: body;
@@ -129,46 +132,65 @@ See LICENSE.txt for this sample’s licensing information
         <collectionList>
             <carousel>
                 <section>
-                    <lockup documentURL="/templates/oneup/Activity.xml">
-                        <img src="/resources/images/activity/dragon-boat.jpg" width="1740" height="500" />
+                    <lockup documentURL="/templates/oneup/all-hands-meeting.xml">
+                        <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting.jpg" width="1740" height="1000" />
+                        <overlay>
+                            <title>All Hands Meeting</title>
+                            <subtitle>"Save the Date" for all-hands meeting with our CEO, Eva Chen</subtitle>
+                        </overlay>
                     </lockup>
-                    <lockup documentURL="/templates/oneup/Activity.xml">
-                        <img src="/resources/images/activity/table-tennis.jpg" width="1740" height="500" />
+                    <lockup documentURL="/templates/oneup/ottawa-family-picnic.xml">
+                        <img src="/resources/images/activity/ottawa-family-picnic/ottawa-family-picnic.jpg" width="1740" height="1000" />
+                        <overlay>
+                            <title>Ottawa Family Picnic</title>
+                            <subtitle>A moment of being competitive</subtitle>
+                        </overlay>
                     </lockup>
-                    <lockup documentURL="/templates/oneup/Activity.xml">
-                        <img src="/resources/images/activity/golf.jpg" width="1740" height="500" />
+                    <lockup documentURL="/templates/oneup/golf.xml">
+                        <img src="/resources/images/activity/golf/golf.jpg" width="1740" height="1000" />
+                        <overlay>
+                            <title>Golf @ Loch March</title>
+                            <subtitle>Golf was fun (but oh so HOT)</subtitle>
+                        </overlay>
                     </lockup>
                 </section>
             </carousel>
+            <shelf>
+                <header>
+                    <title>Activity</title>
+                </header>
+                <section>
+                    <lockup documentURL="/templates/oneup/all-hands-meeting.xml">
+                        <img class="imgGradientBlue" src="/resources/images/activity/all-hands-meeting/all-hands-meeting.jpg" width="548" height="250" />
+                        <overlay>
+                            <title class="gradientOverlayTitle">All Hands Meeting</title>
+                            <subtitle class="gradientOverlaySubtitle">Sep 12, 2016</subtitle>
+                        </overlay>
+                    </lockup>
+                    <lockup documentURL="/templates/oneup/golf.xml">
+                        <img class="imgGradientGreen" src="/resources/images/activity/golf/golf.jpg" width="548" height="250" />
+                        <overlay>
+                            <title class="gradientOverlayTitle">Golf @ Loch March</title>
+                            <subtitle class="gradientOverlaySubtitle">Sep 8, 2016</subtitle>
+                        </overlay>
+                    </lockup>
+                    <lockup documentURL="/templates/oneup/dragon-boat.xml">
+                        <img class="imgGradientRed" src="/resources/images/activity/dragon-boat.jpg" width="548" height="250" />
+                        <overlay>
+                            <title class="gradientOverlayTitle">Dragon Boat Festival</title>
+                            <subtitle class="gradientOverlaySubtitle">Jun 26, 2016</subtitle>
+                        </overlay>
+                    </lockup>
+                </section>
+            </shelf>
             <shelf>
                 <header>
                     <title>Video</title>
                 </header>
                 <section>
                     <lockup videoURL="http://127.0.0.1:9001/resources/video/table-tennis-tournament.mp4" >
-                        <img width="308" height="308" src="/resources/images/project/random-1.png" />
-                        <title>Table Tennis Tournament</title>
-                    </lockup>
-                </section>
-            </shelf>
-            <shelf>
-                <header>
-                    <title>Activity</title>
-                </header>
-                <section>
-                    <lockup documentURL="/templates/oneup/Activity.xml">
-                        <img class="imgGradientRed" src="/resources/images/activity/dragon-boat.jpg" width="548" height="250" />
-                        <overlay>
-                            <title class="gradientOverlayTitle">Dragon Boat Festival</title>
-                            <subtitle class="gradientOverlaySubtitle">Trend has teamed up with paddlers</subtitle>
-                        </overlay>
-                    </lockup>
-                    <lockup documentURL="/templates/oneup/Activity.xml">
-                        <img class="imgGradientBlue" src="/resources/images/activity/table-tennis.jpg" width="548" height="250" />
-                        <overlay>
-                            <title class="gradientOverlayTitle">Ping Pong Tournament</title>
-                            <subtitle class="gradientOverlaySubtitle">Daily sport in our second floor</subtitle>
-                        </overlay>
+                        <img width="308" height="308" src="/resources/images/activity/ping-pong.jpg" />
+                        <title>Table Tennis Final Round</title>
                     </lockup>
                 </section>
             </shelf>

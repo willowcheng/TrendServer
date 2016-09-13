@@ -65,11 +65,11 @@ App.onLaunch = function(options) {
             // Instantiate the DocumentLoader, which will be used to fetch and resolve URLs from the fecthed XML documents.
             // This instance is passed along to subsequent DocumentController objects.
             const documentLoader = new DocumentLoader(baseURL);
-            const startDocURL = documentLoader.prepareURL("/templates/Index.xml");
+            const startDocURL = documentLoader.prepareURL("/templates/main.xml");
             // Instantiate the controller with root template. The controller is passed in the loading document which
             // was pushed while scripts were being evaluated, and controller will replace it with root template once
             // fetched from the server.
-            new DocumentController(documentLoader, startDocURL, loadingDocument);
+            new MenuBarController(documentLoader, startDocURL, loadingDocument);
         } else {
             // Handle error cases in your code. You should present a readable and user friendly
             // error message to the user in an alert dialog.

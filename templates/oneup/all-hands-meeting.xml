@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            * {
+            tv-transition: push;
+            }
+        </style>
+    </head>
+    <oneupTemplate mode="oneup caption">
+        <section>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting.jpg" />
+                <title>All Hands Meeting</title>
+                <subtitle>"Save the Date" for all-hands meeting with our CEO, Eva Chen</subtitle>
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-1.jpg" />
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-2.jpg" />
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-3.jpg" />
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-4.jpg" />
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-5.jpg" />
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-6.jpg" />
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-7.jpg" />
+            </lockup>
+        </section>
+    </oneupTemplate>
+</document>
