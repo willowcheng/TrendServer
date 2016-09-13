@@ -181,6 +181,13 @@ See LICENSE.txt for this sample’s licensing information
                             <subtitle class="gradientOverlaySubtitle">Jun 26, 2016</subtitle>
                         </overlay>
                     </lockup>
+                    <lockup documentURL="/templates/oneup/table-tennis-tournament.xml">
+                        <img class="imgGradientBlue" src="/resources/images/activity/table-tennis-tournament/table-tennis-tournament.jpg" width="548" height="250" />
+                        <overlay>
+                            <title class="gradientOverlayTitle">Table Tennis Tournament</title>
+                            <subtitle class="gradientOverlaySubtitle">Jun 1, 2016</subtitle>
+                        </overlay>
+                    </lockup>
                 </section>
             </shelf>
             <shelf>
