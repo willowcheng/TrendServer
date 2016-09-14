@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            .showTextOnHighlight {
+            tv-text-highlight-style: show-on-highlight;
+            }
+            .badge {
+            tv-tint-color: rgb(255,255,255);
+            }
+            .5ColumnGrid {
+            tv-interitem-spacing: 50;
+            }
+        </style>
+    </head>
+    <productBundleTemplate theme="dark">
+        <banner>
+            <stack>
+                <title>Liu Cheng</title>
+                <subtitle>Front End Developer | 2016</subtitle>
+                <row>
+                    <text>music</text>
+                    <text>ui</text>
+                </row>
+
+                <description handlesOverflow="true">Quisque venenatis orci nec nisl bibendum, id pharetra turpis vulputate. Etiam placerat elit vel iaculis eleifend. Sed sit amet arcu a quam commodo pharetra eget eget elit. Cras dignissim accumsan tellus, sit amet vulputate orci porttitor non.</description>
+                <row>
+                    <buttonLockup videoURL="http://192.168.0.14:9000/resources/video/liu-video.mp4">
+                        <badge src="resource://button-preview" />
+                        <title>Video</title>
+                    </buttonLockup>
+                    <buttonLockup audioURL="http://192.168.0.14:9000/resources/audio/liu-audio.mp3" artworkImageURL="http://192.168.0.14:9000/resources/images/artwork.jpg">
+                        <badge src="resource://button-play" />
+                        <title>Audio</title>
+                    </buttonLockup>
+                </row>
+            </stack>
+            <heroImg src="/resources/images/people/liu-cheng.jpeg" width="360" height="480" />
+        </banner>
+    </productBundleTemplate>
+</document>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            .showTextOnHighlight {
+            tv-text-highlight-style: show-on-highlight;
+            }
+            .badge {
+            tv-tint-color: rgb(255,255,255);
+            }
+            .9ColumnGrid {
+            tv-interitem-spacing: 51;
+            }
+        </style>
+    </head>
+    <productTemplate theme="dark">
+        <banner>
+            <infoList>
+                <info>
+                    <header>
+                        <title>note</title>
+                    </header>
+                    <text>No alcohol</text>
+                    <text>Lunch and Refreshments</text>
+                    <text>Bring beach blanket</text>
+                </info>
+            </infoList>
+            <stack>
+                <title>Ottawa Family Picnic</title>
+                <!-- In lieu of title an image can be used of size max dimensions of 846x130 -->
+                <!-- <img src="" width="846.0" height="130.0" /> -->
+                <row>
+                    <text>Sep 11, 2016 | 11:00AM - 2:00PM</text>
+                </row>
+                <description allowsZooming="true">It's time to pack up your brand new Trend Micro Beach Blanket and Frisbee and join us for the Trend Micro Summer Picnic!!&#13;&#10;&#13;&#10;Join us for a fun afternoon with friends and family! Lunch and Refreshments will be serves...&#13;&#10;&#13;&#10;Remember if you are packing your own beverages - it's non-alcoholic only! (For any special dietary concerns or allergies please let us know.)</description>
+                <row>
+                    <buttonLockup videoURL="http://127.0.0.1:9001/resources/video/ness-gets-minor-whiplash.mp4">
+                        <badge src="resource://button-play" />
+                        <title>Play</title>
+                    </buttonLockup>
+                </row>
+            </stack>
+            <heroImg src="/resources/images/activity/ottawa-family-picnic/ottawa-family-picnic.jpg" width="1000" height="600" />
+        </banner>
+        <shelf class="9ColumnGrid">
+            <header>
+                <title>Moments</title>
+            </header>
+            <section>
+                <lockup documentURL="/templates/oneup/ottawa-family-picnic.xml" >
+                    <img src="/resources/images/activity/ottawa-family-picnic/ottawa-family-picnic.jpg" width="512" height="384" />
+                </lockup>
+                <lockup documentURL="/templates/oneup/ottawa-family-picnic.xml" >
+                    <img src="/resources/images/activity/ottawa-family-picnic/ottawa-family-picnic-1.jpg" width="512" height="384" />
+                    <title class="showTextOnHighlight">A Moment of Being Competitive</title>
+                </lockup>
+                <lockup documentURL="/templates/oneup/ottawa-family-picnic.xml" >
+                    <img src="/resources/images/activity/ottawa-family-picnic/ottawa-family-picnic-2.jpg" width="256" height="384" />
+                    <title class="showTextOnHighlight">Face Painting</title>
+                </lockup>
+                <lockup documentURL="/templates/oneup/ottawa-family-picnic.xml" >
+                    <img src="/resources/images/activity/ottawa-family-picnic/ottawa-family-picnic-3.jpg" width="512" height="384" />
+                    <title class="showTextOnHighlight">Trend Cake</title>
+                </lockup>
+            </section>
+        </shelf>
+        <shelf>
+            <header>
+                <title>Attandee</title>
+            </header>
+            <section>
+                <monogramLockup>
+                    <monogram src="/resources/images/people/henry-guan.jpg" />
+                    <title>Henry Guan</title>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram firstName="Vanessa" lastName="Scott-Sabic" />
+                    <title>Vanessa Scott-Sabic</title>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram firstName="Zhaofen" lastName="Ren" />
+                    <title>Zhaofen Ren</title>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram firstName="Cici" lastName="Chen" />
+                    <title>Cici Chen</title>
+                </monogramLockup>
+            </section>
+        </shelf>
+
+    </productTemplate>
+</document>

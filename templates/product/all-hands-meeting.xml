@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            .showTextOnHighlight {
+            tv-text-highlight-style: show-on-highlight;
+            }
+            .badge {
+            tv-tint-color: rgb(255,255,255);
+            }
+            .9ColumnGrid {
+            tv-interitem-spacing: 51;
+            }
+        </style>
+    </head>
+    <productTemplate theme="dark">
+        <banner>
+            <infoList>
+                <info>
+                    <header>
+                        <title>note</title>
+                    </header>
+                    <text>Save the Date</text>
+                </info>
+            </infoList>
+            <stack>
+                <title>All Hands Meeting</title>
+                <!-- In lieu of title an image can be used of size max dimensions of 846x130 -->
+                <!-- <img src="" width="846.0" height="130.0" /> -->
+                <row>
+                    <text>Sep 12, 2016 | 10:00AM - 1:00PM</text>
+                </row>
+                <description allowsZooming="true">Please join Trend Micro Ottawa for an all-hands meeting, with Eva and Wael, at the Brookstreet Hotal in Kanata (white tent in back)</description>
+            </stack>
+            <heroImg src="/resources/images/activity/all-hands-meeting/all-hands-meeting.jpg" width="1000" height="600" />
+        </banner>
+        <shelf class="9ColumnGrid">
+            <header>
+                <title>Moments</title>
+            </header>
+            <section>
+                <lockup documentURL="/templates/oneup/all-hands-meeting.xml" >
+                    <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting.jpg" width="512" height="384" />
+                </lockup>
+                <lockup documentURL="/templates/oneup/all-hands-meeting.xml" >
+                    <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-1.jpg" width="512" height="384" />
+                </lockup>
+                <lockup documentURL="/templates/oneup/all-hands-meeting.xml" >
+                    <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-2.jpg" width="512" height="384" />
+                </lockup>
+                <lockup documentURL="/templates/oneup/all-hands-meeting.xml" >
+                    <img src="/resources/images/activity/all-hands-meeting/all-hands-meeting-3.jpg" width="512" height="384" />
+                </lockup>
+            </section>
+        </shelf>
+        <shelf>
+            <header>
+                <title>Speaker</title>
+            </header>
+            <section>
+                <monogramLockup>
+                    <monogram firstName="Eva" lastName="Chen" />
+                    <title>Eva Chen</title>
+                    <subtitle>CEO</subtitle>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram firstName="Wael" lastName="Mohamed" />
+                    <title>Wael Mohamed</title>
+                    <subtitle>President</subtitle>
+                </monogramLockup>
+            </section>
+        </shelf>
+
+    </productTemplate>
+</document>

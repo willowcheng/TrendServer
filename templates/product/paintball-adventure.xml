@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            .showTextOnHighlight {
+            tv-text-highlight-style: show-on-highlight;
+            }
+            .badge {
+            tv-tint-color: rgb(255,255,255);
+            }
+            .9ColumnGrid {
+            tv-interitem-spacing: 51;
+            }
+        </style>
+    </head>
+    <productTemplate theme="dark">
+        <banner>
+            <infoList>
+                <info>
+                    <header>
+                        <title>note</title>
+                    </header>
+                    <text>NA</text>
+                </info>
+            </infoList>
+            <stack>
+                <title>Paintball Adventure</title>
+                <!-- In lieu of title an image can be used of size max dimensions of 846x130 -->
+                <!-- <img src="" width="846.0" height="130.0" /> -->
+                <row>
+                    <text>Oct 1, 2016</text>
+                </row>
+                <description allowsZooming="true">As we all feel a lot of buzz around us about raising funds for the great cause, I thought it would be great if we did something that we would all enjoy as a team while also contributing to Candlelighters at the same time. How about doing a team event of Paintball then?&#13;&#10;&#13;&#10;</description>
+            </stack>
+            <heroImg src="/resources/images/activity/paintball-adventure.jpg" width="1000" height="600" />
+        </banner>
+        <shelf>
+            <header>
+                <title>Attendee</title>
+            </header>
+            <section>
+                <monogramLockup>
+                    <monogram src="/resources/images/people/ahsan-bhai.jpg" />
+                    <title>Ahsan Bhai</title>
+                </monogramLockup>
+            </section>
+        </shelf>
+
+    </productTemplate>
+</document>
