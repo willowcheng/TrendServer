@@ -35,6 +35,12 @@ See LICENSE.txt for this sample’s licensing information
                     <text>Sep 12, 2016 | 10:00AM - 1:00PM</text>
                 </row>
                 <description allowsZooming="true">Please join Trend Micro Ottawa for an all-hands meeting, with Eva and Wael, at the Brookstreet Hotal in Kanata (white tent in back)</description>
+                <row>
+                    <buttonLockup documentURL="/templates/oneup/all-hands-meeting.xml">
+                        <badge src="resource://button-play" />
+                        <title>Pictures</title>
+                    </buttonLockup>
+                </row>
             </stack>
             <heroImg src="/resources/images/activity/all-hands-meeting/all-hands-meeting.jpg" width="1000" height="600" />
         </banner>
@@ -59,7 +65,7 @@ See LICENSE.txt for this sample’s licensing information
         </shelf>
         <shelf>
             <header>
-                <title>Speaker</title>
+                <title>Attendee</title>
             </header>
             <section>
                 <monogramLockup>

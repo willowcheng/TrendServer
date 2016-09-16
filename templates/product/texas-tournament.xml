@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            .showTextOnHighlight {
+            tv-text-highlight-style: show-on-highlight;
+            }
+            .badge {
+            tv-tint-color: rgb(255,255,255);
+            }
+            .9ColumnGrid {
+            tv-interitem-spacing: 51;
+            }
+        </style>
+    </head>
+    <productTemplate theme="dark">
+        <banner>
+            <infoList>
+                <info>
+                    <header>
+                        <title>note</title>
+                    </header>
+                    <text>NA</text>
+                </info>
+            </infoList>
+            <stack>
+                <title>Texas Hold'em Tournament</title>
+                <!-- In lieu of title an image can be used of size max dimensions of 846x130 -->
+                <!-- <img src="" width="846.0" height="130.0" /> -->
+                <row>
+                    <text>Sep 16, 2016 | 3:00PM - 5:00PM</text>
+                </row>
+                <description allowsZooming="true">For Ottawa Trenders, you have until tomorrow at 1pm to register and pay for our Texas Hold'em Tournament. 50% of the registration cost goes to the cause and every little bit helps!&#13;&#10;&#13;&#10;Get out, have some fun, and support Candlelighters!</description>
+                <row>
+                    <buttonLockup documentURL="/templates/oneup/texas-tournament.xml">
+                        <badge src="resource://button-play" />
+                        <title>Pictures</title>
+                    </buttonLockup>
+                </row>
+            </stack>
+            <heroImg src="/resources/images/activity/texas-tournament.jpg" width="1000" height="600" />
+        </banner>
+        <shelf class="9ColumnGrid">
+            <header>
+                <title>Moments</title>
+            </header>
+            <section>
+                <lockup documentURL="/templates/oneup/texas-tournament.xml" >
+                    <img src="/resources/images/activity/texas-tournament.jpg" width="512" height="384" />
+                    <title class="showTextOnHighlight">The poker newbies having fun getting ready for the poker tournament tomorrow</title>
+                </lockup>
+                <lockup documentURL="/templates/oneup/texas-tournament.xml" >
+                    <img src="/resources/images/activity/texas-tournament-1.png" width="256" height="384" />
+                    <title class="showTextOnHighlight">Riham won big pot, though it's not in the picture</title>
+                </lockup>
+            </section>
+        </shelf>
+        <shelf>
+            <header>
+                <title>Attendee</title>
+            </header>
+            <section>
+                <monogramLockup>
+                    <monogram firstName="Vanessa" lastName="Scott-Sabic" />
+                    <title>Vanessa Scott-Sabic</title>
+                    <subtitle>Organizer</subtitle>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram firstName="Riham" lastName="Mohamed" />
+                    <title>Riham Mohamed</title>
+                </monogramLockup>
+            </section>
+        </shelf>
+
+    </productTemplate>
+</document>

@@ -177,6 +177,13 @@ See LICENSE.txt for this sample’s licensing information
                     <title>Past</title>
                 </header>
                 <section>
+                    <lockup documentURL="/templates/product/texas-tournament.xml">
+                        <img class="imgGradientRed" src="/resources/images/activity/texas-tournament.jpg" width="548" height="250" />
+                        <overlay>
+                            <title class="gradientOverlayTitle">Texas Hold'em Tournament</title>
+                            <subtitle class="gradientOverlaySubtitle">Sep 16, 2016</subtitle>
+                        </overlay>
+                    </lockup>
                     <lockup documentURL="/templates/product/all-hands-meeting.xml">
                         <img class="imgGradientBlue" src="/resources/images/activity/all-hands-meeting/all-hands-meeting.jpg" width="548" height="250" />
                         <overlay>

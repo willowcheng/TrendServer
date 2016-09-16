@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (C) 2016 Apple Inc. All Rights Reserved.
+See LICENSE.txt for this sample’s licensing information
+-->
+<document>
+    <head>
+        <style>
+            * {
+            tv-transition: push;
+            }
+        </style>
+    </head>
+    <oneupTemplate mode="oneup caption">
+        <section>
+            <lockup>
+                <img src="/resources/images/activity/texas-tournament.jpg" />
+                <title>The poker newbies having fun getting ready for the poker tournament tomorrow</title>
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/texas-tournament-1.png" />
+                <title>Riham won big pot, though it's not in the picture</title>
+            </lockup>
+        </section>
+    </oneupTemplate>
+</document>

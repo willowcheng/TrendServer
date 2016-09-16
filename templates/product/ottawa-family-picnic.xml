@@ -38,9 +38,13 @@ See LICENSE.txt for this sample’s licensing information
                 </row>
                 <description allowsZooming="true">It's time to pack up your brand new Trend Micro Beach Blanket and Frisbee and join us for the Trend Micro Summer Picnic!!&#13;&#10;&#13;&#10;Join us for a fun afternoon with friends and family! Lunch and Refreshments will be serves...&#13;&#10;&#13;&#10;Remember if you are packing your own beverages - it's non-alcoholic only! (For any special dietary concerns or allergies please let us know.)</description>
                 <row>
-                    <buttonLockup videoURL="http://127.0.0.1:9001/resources/video/ness-gets-minor-whiplash.mp4">
+                    <buttonLockup documentURL="/templates/oneup/ottawa-family-picnic.xml">
                         <badge src="resource://button-play" />
-                        <title>Play</title>
+                        <title>Pictures</title>
+                    </buttonLockup>
+                    <buttonLockup videoURL="http://127.0.0.1:9001/resources/video/ness-gets-minor-whiplash.mp4">
+                        <badge src="resource://button-preview" />
+                        <title>Video</title>
                     </buttonLockup>
                 </row>
             </stack>
@@ -70,7 +74,7 @@ See LICENSE.txt for this sample’s licensing information
         </shelf>
         <shelf>
             <header>
-                <title>Attandee</title>
+                <title>Attendee</title>
             </header>
             <section>
                 <monogramLockup>
