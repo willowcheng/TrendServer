@@ -1,6 +1,9 @@
 <document>
     <menuBarTemplate>
         <menuBar>
+            <menuItem documentURL="/templates/menubar/search.xml">
+                <title>Search</title>
+            </menuItem>
             <menuItem documentURL="/templates/menubar/hot.xml" autoHighlight="true">
                 <title>Hot</title>
             </menuItem>

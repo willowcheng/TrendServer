@@ -214,19 +214,34 @@ See LICENSE.txt for this sample’s licensing information
                     </lockup>
                 </section>
             </shelf>
+
+            <separator>
+                <text style="tv-text-style:subhead; margin: 0 30;">Share</text>
+            </separator>
+
             <shelf>
                 <header>
-                    <title>Media</title>
+                    <title>Video</title>
                 </header>
                 <section>
                     <lockup videoURL="http://127.0.0.1:9001/resources/video/table-tennis-tournament.mp4" >
                         <img width="256" height="171" src="/resources/images/activity/ping-pong.jpg" />
                         <title>Table Tennis Final Round</title>
                     </lockup>
-                    <lockup audioURL="http://127.0.0.1:9001/resources/audio/liu-audio.mp3" artworkImageURL="http://127.0.0.1:9001/resources/images/artwork.jpg">
-                        <img width="250" height="209" src="/resources/images/audio.jpg" />
-                        <title>Mind Audio</title>
-                    </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <header>
+                    <title>Audio</title>
+                </header>
+                <section>
+                </section>
+            </shelf>
+            <shelf>
+                <header>
+                    <title>Pictures</title>
+                </header>
+                <section>
                 </section>
             </shelf>
         </collectionList>

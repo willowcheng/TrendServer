@@ -57,6 +57,20 @@ See LICENSE.txt for this sample’s licensing information
                     <img src="/resources/images/activity/texas-tournament-1.png" width="256" height="384" />
                     <title class="showTextOnHighlight">Riham won big pot, though it's not in the picture</title>
                 </lockup>
+                <lockup documentURL="/templates/oneup/texas-tournament.xml" >
+                    <img src="/resources/images/activity/texas-tournament-2.jpg" width="288" height="384" />
+                    <title class="showTextOnHighlight">Let the good times roll!</title>
+                </lockup>
+                <lockup documentURL="/templates/oneup/texas-tournament.xml" >
+                    <img src="/resources/images/activity/texas-tournament-3.jpg" width="512" height="384" />
+                </lockup>
+                <lockup documentURL="/templates/oneup/texas-tournament.xml" >
+                    <img src="/resources/images/activity/texas-tournament-4.jpg" width="288" height="384" />
+                    <title class="showTextOnHighlight">Full action!</title>
+                </lockup>
+                <lockup documentURL="/templates/oneup/texas-tournament.xml" >
+                    <img src="/resources/images/activity/texas-tournament-5.jpg" width="512" height="384" />
+                </lockup>
             </section>
         </shelf>
         <shelf>

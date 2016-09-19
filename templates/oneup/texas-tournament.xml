@@ -21,6 +21,20 @@ See LICENSE.txt for this sample’s licensing information
                 <img src="/resources/images/activity/texas-tournament-1.png" />
                 <title>Riham won big pot, though it's not in the picture</title>
             </lockup>
+            <lockup>
+                <img src="/resources/images/activity/texas-tournament-2.jpg" />
+                <title>Let the good times roll!</title>
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/texas-tournament-3.jpg" />
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/texas-tournament-4.jpg" />
+                <title>Full action</title>
+            </lockup>
+            <lockup>
+                <img src="/resources/images/activity/texas-tournament-5.jpg" />
+            </lockup>
         </section>
     </oneupTemplate>
 </document>
