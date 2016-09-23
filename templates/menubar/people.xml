@@ -1,7 +1,5 @@
 <document>
     <head>
-        <style>
-        </style>
     </head>
     <catalogTemplate>
         <banner>
@@ -14,13 +12,57 @@
                 </header>
                 <listItemLockup>
                     <title>2016</title>
-                    <decorationLabel>1</decorationLabel>
+                    <decorationLabel>12</decorationLabel>
                     <relatedContent>
                         <grid>
                             <section>
                                 <lockup documentURL="/templates/product/liu-cheng.xml">
-                                    <img src="/resources/images/people/liu-cheng.jpeg" width="288" height="360" />
-                                    <title class="whiteText">Liu Cheng</title>
+                                    <img src="/resources/images/people/liu-cheng.jpg" width="240" height="300" />
+                                    <title>Liu Cheng</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/daniel-mercier.jpg" width="240" height="300" />
+                                    <title>Daniel Mercier</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/vanessa-scott-sabic.jpg" width="240" height="300" />
+                                    <title>Vanessa Scott-Sabic</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/miika-heimonen-mackay.jpg" width="240" height="300" />
+                                    <title>Miika Heimonen-Mackay</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/morgan-williams.jpg" width="240" height="300" />
+                                    <title>Morgan Williams</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/ibrahim-buamod.jpg" width="240" height="300" />
+                                    <title>Ibrahim Buamod</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/steve-van-eyk.jpg" width="240" height="300" />
+                                    <title>Steve Van-Eyk</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/graham-mcgregor.jpg" width="240" height="300" />
+                                    <title>Graham McGregor</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/asad-khan.jpg" width="240" height="300" />
+                                    <title>Asad Khan</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/cici-chen.jpg" width="240" height="300" />
+                                    <title>Cici Chen</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/chloe-lee.jpg" width="240" height="300" />
+                                    <title>Chloe Lee</title>
+                                </lockup>
+                                <lockup>
+                                    <img src="/resources/images/people/courtney-schwartz.jpg" width="240" height="300" />
+                                    <title>Courtney Schwartz</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -39,7 +81,7 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/mason-lee.jpg" width="288" height="360" />
-                                    <title class="whiteText">Mason Lee</title>
+                                    <title>Mason Lee</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -53,19 +95,19 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/david-c-chen.jpg" width="288" height="360" />
-                                    <title class="whiteText">David C Chen</title>
+                                    <title>David C Chen</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/justin-forster.jpg" width="288" height="360" />
-                                    <title class="whiteText">Justin Forster</title>
+                                    <title>Justin Forster</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/wael-mohamed.jpg" width="288" height="360" />
-                                    <title class="whiteText">Wael Mohamed</title>
+                                    <title>Wael Mohamed</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/marion-mora.jpg" width="288" height="360" />
-                                    <title class="whiteText">Marion Mora</title>
+                                    <title>Marion Mora</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -79,31 +121,31 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/kevin-boyce.jpg" width="240" height="300" />
-                                    <title class="whiteText">Kevin Boyce</title>
+                                    <title>Kevin Boyce</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/bill-mcgee.jpg" width="240" height="300" />
-                                    <title class="whiteText">Bill Mcgee</title>
+                                    <title>Bill Mcgee</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/jason-liu.jpg" width="240" height="300" />
-                                    <title class="whiteText">Jason Liu</title>
+                                    <title>Jason Liu</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/kevin-c-chen.jpg" width="240" height="300" />
-                                    <title class="whiteText">Kevin C Chen</title>
+                                    <title>Kevin C Chen</title>
                                 </lockup>
                                 <lockup  documentURL="/templates/product/jean-francoeur.xml">
                                     <img src="/resources/images/people/jean-francoeur.jpg" width="240" height="300" />
-                                    <title class="whiteText">Jean Francoeur</title>
+                                    <title>Jean Francoeur</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/rick-abbott.jpg" width="240" height="300" />
-                                    <title class="whiteText">Rick Abbott</title>
+                                    <title>Rick Abbott</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/reno-hong.jpg" width="240" height="300" />
-                                    <title class="whiteText">Reno Hong</title>
+                                    <title>Reno Hong</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -117,31 +159,31 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/michael-dysart.jpg" width="240" height="300" />
-                                    <title class="whiteText">Michael Dysart</title>
+                                    <title>Michael Dysart</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/thanh-nyguyen.jpg" width="240" height="300" />
-                                    <title class="whiteText">Thanh Nyguyen</title>
+                                    <title>Thanh Nyguyen</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/bob-durie.jpg" width="240" height="300" />
-                                    <title class="whiteText">Bob Durie</title>
+                                    <title>Bob Durie</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/terry-cass.jpg" width="240" height="300" />
-                                    <title class="whiteText">Terry Cass</title>
+                                    <title>Terry Cass</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/bryan-tice.jpg" width="240" height="300" />
-                                    <title class="whiteText">Bryan Tice</title>
+                                    <title>Bryan Tice</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/marion-chase.jpg" width="240" height="300" />
-                                    <title class="whiteText">Marion Chase</title>
+                                    <title>Marion Chase</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/pawan-kinger.jpg" width="240" height="300" />
-                                    <title class="whiteText">Pawan Kinger</title>
+                                    <title>Pawan Kinger</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -155,11 +197,11 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/sumit-soni.jpg" width="288" height="360" />
-                                    <title class="whiteText">Sumit Soni</title>
+                                    <title>Sumit Soni</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/ray-duan.jpg" width="288" height="360" />
-                                    <title class="whiteText">Ray Duan</title>
+                                    <title>Ray Duan</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -173,7 +215,7 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/michael-vording.jpg" width="288" height="360" />
-                                    <title class="whiteText">Michael Vording</title>
+                                    <title>Michael Vording</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -187,7 +229,7 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/virendra-bisht.jpg" width="288" height="360" />
-                                    <title class="whiteText">Virendra Bisht</title>
+                                    <title>Virendra Bisht</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -201,19 +243,19 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/daniel-smith.jpg" width="288" height="360" />
-                                    <title class="whiteText">Daniel Smith</title>
+                                    <title>Daniel Smith</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/naeem-ul-haq.jpg" width="288" height="360" />
-                                    <title class="whiteText">Naeem Ul-Haq</title>
+                                    <title>Naeem Ul-Haq</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/christa-ross.jpg" width="288" height="360" />
-                                    <title class="whiteText">Christa Ross</title>
+                                    <title>Christa Ross</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/saif-chaudhry.jpg" width="288" height="360" />
-                                    <title class="whiteText">Saif Chaudhry</title>
+                                    <title>Saif Chaudhry</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -227,23 +269,23 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/hao-liu.jpg" width="288" height="360" />
-                                    <title class="whiteText">Hao Liu</title>
+                                    <title>Hao Liu</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/shoubhik-ghosh.jpg" width="288" height="360" />
-                                    <title class="whiteText">Shoubhik Ghosh</title>
+                                    <title>Shoubhik Ghosh</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/keith-mclellan.jpg" width="288" height="360" />
-                                    <title class="whiteText">Keith Mclellan</title>
+                                    <title>Keith Mclellan</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/marcia-sequeira.jpg" width="288" height="360" />
-                                    <title class="whiteText">Marcia Sequeira</title>
+                                    <title>Marcia Sequeira</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/mark-nunnikhoven.jpg" width="288" height="360" />
-                                    <title class="whiteText">Mark Nunnikhoven</title>
+                                    <title>Mark Nunnikhoven</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -257,35 +299,35 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/henry-guan.jpg" width="240" height="300" />
-                                    <title class="whiteText">Henry Guan</title>
+                                    <title>Henry Guan</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/nick-willan.jpg" width="240" height="300" />
-                                    <title class="whiteText">Nick Willan</title>
+                                    <title>Nick Willan</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/dawn-smeaton.jpg" width="240" height="300" />
-                                    <title class="whiteText">Dawn Smeaton</title>
+                                    <title>Dawn Smeaton</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/tim-mackenzie.jpg" width="240" height="300" />
-                                    <title class="whiteText">Tim Mackenzie</title>
+                                    <title>Tim Mackenzie</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/peter-ma.jpg" width="240" height="300" />
-                                    <title class="whiteText">Peter Ma</title>
+                                    <title>Peter Ma</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/marek-buchler.jpg" width="240" height="300" />
-                                    <title class="whiteText">Marek Buchler</title>
+                                    <title>Marek Buchler</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/asad-khalid.jpg" width="240" height="300" />
-                                    <title class="whiteText">Asad Khalid</title>
+                                    <title>Asad Khalid</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/don-ham.jpg" width="240" height="300" />
-                                    <title class="whiteText">Don Ham</title>
+                                    <title>Don Ham</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -299,27 +341,27 @@
                             <section>
                                 <lockup>
                                     <img src="/resources/images/people/bruce-mchaffie.jpg" width="288" height="360" />
-                                    <title class="whiteText">Bruce Mchaffie</title>
+                                    <title>Bruce Mchaffie</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/krista-mccredie.jpg" width="288" height="360" />
-                                    <title class="whiteText">Krista Mccredie</title>
+                                    <title>Krista Mccredie</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/parthy-chandrasekaran.jpg" width="288" height="360" />
-                                    <title class="whiteText">Parthy Chandrasekaran</title>
+                                    <title>Parthy Chandrasekaran</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/behrooz-tabesh.jpg" width="288" height="360" />
-                                    <title class="whiteText">Behrooz Tabesh</title>
+                                    <title>Behrooz Tabesh</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/scott-broschell.jpg" width="288" height="360" />
-                                    <title class="whiteText">Scott Broschell</title>
+                                    <title>Scott Broschell</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/adam-boyle.jpg" width="288" height="360" />
-                                    <title class="whiteText">Adam Boyle</title>
+                                    <title>Adam Boyle</title>
                                 </lockup>
                             </section>
                         </grid>
@@ -333,75 +375,75 @@
                             <section>
                                 <lockup documentURL="/templates/product/alan-stewart.xml">
                                     <img src="/resources/images/people/alan-stewart.jpg" width="240" height="300" />
-                                    <title class="whiteText">Alan Stewart</title>
+                                    <title>Alan Stewart</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/shan-bhai.jpg" width="240" height="300" />
-                                    <title class="whiteText">Ahsan Bhai</title>
+                                    <title>Ahsan Bhai</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/geoff-baskwill.jpg" width="240" height="300" />
-                                    <title class="whiteText">Geoff Baskwill</title>
+                                    <title>Geoff Baskwill</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/norbert-griffin.jpg" width="240" height="300" />
-                                    <title class="whiteText">Norbert Griffin</title>
+                                    <title>Norbert Griffin</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/tom-liu.jpg" width="240" height="300" />
-                                    <title class="whiteText">Tom Liu</title>
+                                    <title>Tom Liu</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/martin-lavigne.jpg" width="240" height="300" />
-                                    <title class="whiteText">Martin Lavigne</title>
+                                    <title>Martin Lavigne</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/kashif-mustaq.jpg" width="240" height="300" />
-                                    <title class="whiteText">Kashif Mustaq</title>
+                                    <title>Kashif Mustaq</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/shalom-shauer.jpg" width="240" height="300" />
-                                    <title class="whiteText">Shalom Shauer</title>
+                                    <title>Shalom Shauer</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/zhaofen-ren.jpg" width="240" height="300" />
-                                    <title class="whiteText">Zhaofen Ren</title>
+                                    <title>Zhaofen Ren</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/marc-baetica.jpg" width="240" height="300" />
-                                    <title class="whiteText">Marc Baetica</title>
+                                    <title>Marc Baetica</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/andrew-mcgregor.jpg" width="240" height="300" />
-                                    <title class="whiteText">Andrew Mcgregor</title>
+                                    <title>Andrew Mcgregor</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/timur-aslaev.jpg" width="240" height="300" />
-                                    <title class="whiteText">Timur Aslaev</title>
+                                    <title>Timur Aslaev</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/haoyu-li.jpg" width="240" height="300" />
-                                    <title class="whiteText">Haoyu Li</title>
+                                    <title>Haoyu Li</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/chris-xu.jpg" width="240" height="300" />
-                                    <title class="whiteText">Chris Xu</title>
+                                    <title>Chris Xu</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/ted-zhou.jpg" width="240" height="300" />
-                                    <title class="whiteText">Ted Zhou</title>
+                                    <title>Ted Zhou</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/eugene-deery.jpg" width="240" height="300" />
-                                    <title class="whiteText">Eugene Deery</title>
+                                    <title>Eugene Deery</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/paul-zhang.jpg" width="240" height="300" />
-                                    <title class="whiteText">Pual Zhang</title>
+                                    <title>Pual Zhang</title>
                                 </lockup>
                                 <lockup>
                                     <img src="/resources/images/people/jason-milley.jpg" width="240" height="300" />
-                                    <title class="whiteText">Jason Milley</title>
+                                    <title>Jason Milley</title>
                                 </lockup>
                             </section>
                         </grid>

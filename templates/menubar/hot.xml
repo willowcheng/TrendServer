@@ -6,42 +6,6 @@ See LICENSE.txt for this sample’s licensing information
 <document>
     <head>
         <style>
-            .carouselOverlay {
-            padding:180 90 0 1100;
-            }
-            .carouselOverlayImg {
-            tv-position: top-left;
-            margin: 0 20 0 0;
-            }
-            .carouselOverlayTitle {
-            tv-position: top;
-            tv-align: left;
-            margin: 36 0 0;
-            }
-            .carouselOverlaySubtitle {
-            tv-position: top;
-            tv-align: left;
-            }
-            .carouselOverlayText {
-            tv-position: footer;
-            tv-align: left;
-            tv-text-max-lines: 3;
-            margin: 0 0 38;
-            }
-
-            .carouselOverlayImg2 {
-            tv-position: bottom-left;
-            margin: 0 20 0 0;
-            }
-
-            .progressOverlay {
-            padding: 0;
-            }
-            .watchedOverlayImg {
-            tv-position: bottom-right;
-            tv-align: right;
-            }
-
             .imgGradientBlue {
             tv-tint-color: linear-gradient(top, 0.37, transparent, 0.5, rgba(61,101,128,0.5), 0.96, rgba(61,101,128,1.0), rgba(61,101,128,1.0));
             }
@@ -67,67 +31,6 @@ See LICENSE.txt for this sample’s licensing information
             tv-text-max-lines: 1;
             margin: 6 0 -6 0;
             text-align: center;
-            }
-
-            .simpleCard {
-            width: 548;
-            height: 308;
-            background-color: rgba(255, 255, 255, 0.5);
-            tv-highlight-color: rgba(255, 255, 255, 0.9);
-
-            }
-            .simpleCardTitle {
-            tv-position: center;
-            color: rgba(0, 0, 0, 0.6);
-            tv-text-style: headline;
-            tv-text-max-lines: 1;
-            text-align: center;
-            }
-            .simpleCardSubtitle {
-            tv-position: center;
-            color: rgba(0, 0, 0, 0.4);
-            tv-text-style: subtitle3;
-            tv-text-max-lines: 1;
-            text-align: center;
-            }
-
-            <!-- Music mini Card -->
-            .musicMiniCard {
-            width:666;
-            height:308;
-            background-color: rgba(255, 255, 255, 0.7);
-            }
-            .musicMiniImage {
-            width:308;
-            height:308;
-            tv-position:left;
-            }
-            .musicMiniTitle {
-            text-align: left;
-            tv-text-max-lines: 2;
-            tv-position:top;
-            tv-align: left;
-            margin: 32 30 0;
-            tv-text-style:callout;
-            color: rgba(0, 0, 0, 0.6);
-            }
-            .musicMiniSubtitle {
-            text-align: left;
-            tv-text-max-lines: 1;
-            tv-position:top;
-            tv-align: left;
-            margin: 32 30 0;
-            tv-text-style:subhead;
-            color: rgba(0, 0, 0, 0.4);
-            }
-            .musicMiniDescription {
-            text-align: left;
-            tv-text-max-lines: 3;
-            tv-position:top;
-            tv-align: left;
-            margin: 9 30 0;
-            tv-text-style:caption1;
-            color: rgba(0, 0, 0, 0.4);
             }
         </style>
     </head>
@@ -225,7 +128,7 @@ See LICENSE.txt for this sample’s licensing information
                 </header>
                 <section>
                     <lockup videoURL="http://127.0.0.1:9001/resources/video/table-tennis-tournament.mp4" >
-                        <img width="256" height="171" src="/resources/images/activity/ping-pong.jpg" />
+                        <img width="171" height="171" style="tv-placeholder: tv;" />
                         <title>Table Tennis Final Round</title>
                     </lockup>
                 </section>
